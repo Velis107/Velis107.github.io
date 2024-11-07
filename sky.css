@@ -1,0 +1,22 @@
+body{
+
+ background-image:url(bg.webp);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+background-attachment: fixed;
+
+}
+h1{
+    color: chartreuse;
+}
+
+h2{
+    color: aqua;
+}
+
+.imagen {
+    width: 50%;  /* La imagen será el 50% del ancho del contenedor */
+    height: 30px; /* Mantiene la relación de aspecto original */
+}
+
